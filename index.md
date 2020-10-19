@@ -13,29 +13,29 @@ Software engineer with a passion for C#, functional programming and dark modes
 
 ## About me
 
-- I like to think of myself as a rare instance of a software engineer with
-strong soft/interpersonal skills.
-- I love learning new things and facing new challenges, the most interesting
+I like to think of myself as a rare instance of a software engineer with
+strong soft/interpersonal skills. 
+I love learning new things and facing new challenges, the most interesting
 tasks are the hardest ones.
-- If something will give me the opportunity to
+If something will give me the opportunity to
 work with things I am not familiar with, chances are that I'll have fun doing it.
-- While I'm primarily a backend developer, I am also interested in things
+While I'm primarily a backend developer, I am also interested in things
 related to AI and ML, and I've learned quite
-- a bit from the field during
+a bit from the field during
 my studies. This means that while I may not be an AI/ML engineer, I know
-- enough to effectively communicate and work with people
+enough to effectively communicate and work with people
 specializing in AI/ML.
-- I always strive to write the best software that I can, both when it comes to
+I always strive to write the best software that I can, both when it comes to
 code style and quality,
-- and when it comes to the design quality and consistency of larger software units.
-- I love to work with teams of experienced engineers who share my passion
+and when it comes to the design quality and consistency of larger software units.
+I love to work with teams of experienced engineers who share my passion
 for quality software, but I believe that I am also
-- very self-sufficient and independent in solving my tasks.
-- I am a strong proponent of frequent and in-depth code review, as well as
+very self-sufficient and independent in solving my tasks.
+I am a strong proponent of frequent and in-depth code review, as well as
 pair programming - I believe that they are not only
-- the best ways of writing quality code, but also a great means of personal improvement
+the best ways of writing quality code, but also a great means of personal improvement
 for individual developers.
-- I am passionate about open-source software, and I sometimes contribute
+I am passionate about open-source software, and I sometimes contribute
 when time allows (although not nearly as often as I'd like).
 
 ## Work experience
