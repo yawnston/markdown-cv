@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Crha's CV
 ---
 # Daniel Crha
-Software engineer with a passion for .NET
+Software engineer with a passion for C#, functional programming and dark modes
 
 <div id="webaddress">
 <a href="mailto:daniel.crha@gmail.com">daniel.crha@gmail.com</a>
@@ -11,82 +11,75 @@ Software engineer with a passion for .NET
 | <a href="https://www.linkedin.com/in/daniel-crha">LinkedIn</a>
 </div>
 
+## About me
 
-## Currently
+- Lorem ipsum
 
-Standing on the shoulders of giants
+## Work experience
 
-### Specialized in
+`2018-now`
+__KENDAXA__ - Software engineer (.NET)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Lorem ipsum
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-now`
+__Faculty of Mathematics and Physics, Charles University, Prague__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master in Software and Data Engineering
 
-- Sizar
+`2016-2020`
+__Faculty of Mathematics and Physics, Charles University, Prague__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelor in Computer Science
 
-- Fellow
+`2007-2016`
+__Gymnázium Nad Kavalírkou__
 
+- High School
 
+## Technical skills
 
-## Awards
+__Backend development__
+- C# (.NET Core), ASP.NET Core for web APIs
+- Python (primarily in AI/ML contexts)
+- Docker
 
-`2012`
-President, *Royal Society*, London, UK
+__Frontend development__
+- Angular with Typescript, SCSS, HTML
 
-Associate, *French Academy of Science*, Paris, France
+__Database technologies__
+- MongoDB
+- SQL
 
+__Operating systems__
+- Linux (favorite distribution and window manager: Ubuntu with i3-gaps)
+- Windows
 
+__Scripting__
+- Bash, Python
 
-## Publications
+__Other__
+- Git
+- LaTeX
+- CI/CD
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Languages
 
-### Journals
+__Czech__ - Native speaker
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__English__ - Fully proficient (C2 CEFR certified)
 
-`1669`
-Lectiones opticæ.
+__German__ - Basic/intermediate
 
-etc. etc. etc.
+## Personal interests
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- I am interested in technology of all kinds, although I'm primarily interested
+in things related to software development (especially functional programming).
+- I also enjoy computer games, esports and table tennis.
 
 <!-- ### Footer
 
 Last updated: 19 October 2020 -->
-
 
