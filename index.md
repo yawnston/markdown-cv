@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Crha's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Crha
+Software engineer with a passion for .NET
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:daniel.crha@gmail.com">daniel.crha@gmail.com</a>
+| <a href="https://github.com/yawnston">Github</a>
+| <a href="https://www.linkedin.com/in/daniel-crha">LinkedIn</a>
 </div>
 
 
@@ -86,6 +87,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 19 October 2020 -->
 
 
